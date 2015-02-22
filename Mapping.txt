@@ -16,3 +16,4 @@
 👽 as :
 ™  as ;
 ☎ as char
+⪌  as >=< (Greater Than or Equal To or Less Than)
